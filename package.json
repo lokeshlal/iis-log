@@ -2,7 +2,7 @@
   "name": "iis-log",
   "version": "1.0.0",
   "description": "read w3c logs from iis websites",
-  "main": "lib/iis-log.js",
+  "main": "./lib/iis-log.js",
   "directories": {
     "test": "test"
   },
