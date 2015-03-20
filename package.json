@@ -1,0 +1,20 @@
+{
+  "name": "iis-log",
+  "version": "1.0.0",
+  "description": "read w3c logs from iis websites",
+  "main": "lib/iis-log.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chokidar": "^1.0.0-rc4",
+    "xml2js": "^0.4.6",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "author": "lokesh lal",
+  "license": "ISC"
+}
